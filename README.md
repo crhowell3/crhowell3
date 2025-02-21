@@ -1,5 +1,4 @@
-<h1 align="center">
-  Hey! I'm Cameron.
-</h1>
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/metrics.plugin.introduction.svg" alt="Intro" />
+  <img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" />
+</p>
